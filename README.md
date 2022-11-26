@@ -1,4 +1,7 @@
-### Hi there 👋
+- 👋 Hi, I’m @vinaygottipamula.
+- 👀 I’m interested in coding, problem solving.
+- 🌱 I’m currently learning DSA,Competitive Programming.
+- 📫 How to reach me www.linkedin.com/in/vinaygottipamula
 
 <!--
 **vinaygottipamula/vinaygottipamula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
