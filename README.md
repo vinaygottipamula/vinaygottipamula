@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinaygottipamula.
 - 👀 I’m interested in coding, problem solving.
-- 🌱 I’m currently learning DSA,Competitive Programming.
+- 🌱 I’m currently learning DSA,Front end.
 - 📫 How to reach me www.linkedin.com/in/vinaygottipamula
 
 <!--
