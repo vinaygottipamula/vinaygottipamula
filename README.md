@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vinaygottipamula.
+- 👋 Hi, I’m Vinay
 - 👀 I’m interested in coding, problem solving.
 - 🌱 I’m currently learning DSA,Front end.
 - 📫 How to reach me www.linkedin.com/in/vinaygottipamula
