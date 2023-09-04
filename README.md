@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Vinay
 - 👀 I’m interested in coding, problem solving.
-- 🌱 I’m currently learning DSA,Front end.
+- 🔭 I’m currently working on front-end development.
+- 🌱 I’m currently focusing on DSA.
+- 💬 Ask me about tech.
 - 📫 How to reach me www.linkedin.com/in/vinaygottipamula
 
 <!--
