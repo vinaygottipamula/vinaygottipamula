@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Vinay
-- 👀 I’m interested in coding, problem solving.
-- 🔭 I’m currently working on front-end development.
-- 🌱 I’m currently focusing on DSA.
+- 👨‍💻 Intern @HexaCluster
+- 👀 Interested in coding, problem solving.
 - 💬 Ask me about tech.
 - 📫 How to reach me www.linkedin.com/in/vinaygottipamula
 
