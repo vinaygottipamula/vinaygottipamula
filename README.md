@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vinay
 - 👨‍💻 Sofware Developer@HexaCluster
 - 👀 Interested in coding, problem solving.
-- 🔭 I’m currently working on Spring Boot Application
+- 🔭 Working on Spring Boot.
 - 💬 Ask me about DSA and tech.
 - 📫 How to reach me www.linkedin.com/in/vinaygottipamula
 
